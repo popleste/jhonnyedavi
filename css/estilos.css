@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body {
     background-image: url("https://lh3.googleusercontent.com/L-4ZxWOXtJzhX-8xYjn8xIRAfEE89K3QzTrs25sVqMVHkvaTnE8UJh9jTxoAclvkYGpm=s85");
