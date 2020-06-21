@@ -1,45 +1,44 @@
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 body {
 
-    background-image: url('../img/Jubiléia.jpg');
-    background-size: 100vw 100vh; 
-    font-family:Arial;
-    height: 300vh;
-  }
-  .menu {
-    background-color:white;
-  }
-  
-  .menu ul {
-    display: flex;
-    justify-content: space-around;
-  }
-  
-  a {
-    color:red;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
-  
-  .site-title {
-    text-align: center;
-    color:black;
-  }
-  
-  .site-subtitle {
-    font-style: italic;
-    color: teal;
-    text-align: center;
-  }
-  
-  .menu li {
-    list-style: none;
-  }
-  
+  background-image: url('https://lh3.googleusercontent.com/rd13-TfXpPSpcMzutTkPPp-2atacDowGVn0qoMXHettYFP1Be-vtWWg8VwAEeADfhNcVeZ6Sb91yS6HpC7tF2TsuFRG4lryi3ZRUmFQvPuSlaD-YepLhcqi4vWxgup2VtnWCEUTdearCiWbWoohkaSlivPBGZ6U8kiRT9SaFuCeW5D2CiMADq8NT77MMzfeCT6zZZbmH-kWH3bxLKkDoG-6_MlH22P7FfcJlHTO6yEugqTyMk2F5MnWZ0E_YFYOB1qIkFB_iDG3D-cHGyB9RSGKFP4YMIR-XuCW3ve-SnJSplIf8SQGtlVc5lfRiZcj9UHJSAQHzIGa3fUbbjyP3Q0g71T9DgfZI7wA8y62kDyIaPt7qOj4xajgIWC8Z2ijSe3Tiy0zdFnU8RjRb8thExCRISJ_T8UnNSNs0RHU_1u4mQZKfFWOTIUD8SQjpDaBlwGDM1_k1TnCq0EBMvSiWw9M8Ab5zciIYWtz-z_GusV1OKDT7kRdTM6TA0e5PbKI4S-zW1AqOeCFVxDUHfKtdufdImz6mHjSFMZDXed4WfXkiVPNLByG9RXfv8tQk6ab92ZJNQT3yXqiXcOSTlBf0PsyuOgm_VOgvBwNwNV2c0nZkVT_nWkPIP2elJdGOpxh-MjYsEvIOTytYOp703el3BfPdeJMdUV2b2-KG5jskOj7ugay-HkypDUfgTM7LAA=w540-h532-no?authuser=0');
+  background-size: 100vw 100vh; 
+  font-family:Arial;
+  height: 300vh;
+}
+.menu {
+  background-color:white;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+a {
+  color:red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-title {
+  text-align: center;
+  color:black;
+}
+
+.site-subtitle {
+  font-style: italic;
+  color: teal;
+  text-align: center;
+}
+
+.menu li {
+  list-style: none;
+}
